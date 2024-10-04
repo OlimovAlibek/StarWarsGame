@@ -1,0 +1,43 @@
+
+# Unity-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / MonoDevelop project files
+[Ee]xportedObj/
+.vscode/
+.vs/
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.dll
+*.exe
+*.pdf
+*.mid
+*.midi
+*.tmp
+*.ttf
+*.doc
+*.docx
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash reports
+sysinfo.txt
+
+# Audio
+[Dd]ebug/
+
+# Crash log
+*[Bb]uild/*/CrashReports/
+
